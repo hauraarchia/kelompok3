@@ -51,8 +51,8 @@ class _LauncherPageState extends State<LauncherPage> {
             new Center(
               child: new Image.asset(
                 "assets/logo.png",
-                height: 70.0,
-                width: 200.0,
+                height: 500.0,
+                width: 500.0,
               ),
             ),
           ],

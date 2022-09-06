@@ -19,7 +19,7 @@ class _LandingPageState extends State<LandingPage> {
           child: new Container(
             color: Colors.white,
             child: Center(
-              child: Text('Home'),
+              child: Text('Halaman Utama'),
             )
           ),
         ));
