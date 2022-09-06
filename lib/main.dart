@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './launcher.dart';
+import './.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: LauncherPage(),
+      home: regist(),
     );
   }
 }

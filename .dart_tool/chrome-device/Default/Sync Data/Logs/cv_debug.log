@@ -1,0 +1,17 @@
+{"logTime": "0906/033852", "correlationVector":"ozv8LaL9in630oQ46uhea9.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "0906/033852", "correlationVector":"ozv8LaL9in630oQ46uhea9.0","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "server":""}}
+{"logTime": "0906/033852", "correlationVector":"xxDFWLJZQ7NOV91p/6eBjv.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia", "server":"GENERAL01000012"}}
+{"logTime": "0906/033852", "correlationVector":"xxDFWLJZQ7NOV91p/6eBjv","action":"Initial GetUpdates", "result":""}
+{"logTime": "0906/033852", "correlationVector":"xxDFWLJZQ7NOV91p/6eBjv.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "0906/033853", "correlationVector":"RlBEHcLOLD9CA9p1NhUfAW","action":"Initial GetUpdates", "result":""}
+{"logTime": "0906/033853", "correlationVector":"RlBEHcLOLD9CA9p1NhUfAW.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia", "server":"GENERAL0100001G"}}
+{"logTime": "0906/033853", "correlationVector":"RlBEHcLOLD9CA9p1NhUfAW.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "0906/033853", "correlationVector":"2w62onylYunp1n6iECdjIO","action":"Normal GetUpdate request", "result":""}
+{"logTime": "0906/033853", "correlationVector":"2w62onylYunp1n6iECdjIO.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia", "server":"GENERAL0100000C"}}
+{"logTime": "0906/033853", "correlationVector":"2w62onylYunp1n6iECdjIO.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "0906/033853", "correlationVector":"W6sg3BSBYxqlMTXt9F5QKO","action":"Commit Request", "result":""}
+{"logTime": "0906/033853", "correlationVector":"W6sg3BSBYxqlMTXt9F5QKO.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia", "server":"GENERAL0100001C"}}
+{"logTime": "0906/033853", "correlationVector":"W6sg3BSBYxqlMTXt9F5QKO.2","action":"Commit Response", "result":"SYNCER_OK"}
+{"logTime": "0906/033853", "correlationVector":"AcSUESPfkYFOirqGRA6J2H","action":"Commit Request", "result":""}
+{"logTime": "0906/033853", "correlationVector":"AcSUESPfkYFOirqGRA6J2H.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_SoutheastAsia", "server":"GENERAL0100000G"}}
+{"logTime": "0906/033853", "correlationVector":"AcSUESPfkYFOirqGRA6J2H.2","action":"Commit Response", "result":"SYNCER_OK"}
