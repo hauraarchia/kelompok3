@@ -3,6 +3,7 @@ import '../theme.dart';
 import '../widgets/custom_checkbox.dart';
 import '../widgets/primary_button.dart';
 
+
 class RegisterPage extends StatefulWidget {
   const RegisterPage({ Key? key }) : super(key: key);
 
@@ -33,14 +34,15 @@ class _RegisterPageState extends State<RegisterPage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'APP Flutter\nRegister',
+                    'Register \nMyCanteen',
                     style: heading2.copyWith(color: textBlack),
                   ),
                   SizedBox(
                     height: 20,
                   ),
                   Image.asset(
-                    'assets/images/accent.png',
+                  //  'assets/images/accent.png',
+                    'assets/images/logo.png',
                     width: 99,
                     height: 4,
                   )
