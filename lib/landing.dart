@@ -7,7 +7,6 @@ class LandingPage extends StatefulWidget {
 }
 
 class _LandingPageState extends State<LandingPage> {
-
   @override
   void initState() {
     super.initState();
@@ -17,13 +16,11 @@ class _LandingPageState extends State<LandingPage> {
   Widget build(BuildContext context) {
     return new Scaffold(
         body: SafeArea(
-          child: new Container(
-            color: Colors.white,
-            child: Center(
-              child: Text('Home'),
-            )
-          ),
-        ));
+      child: new Container(
+          color: Colors.white,
+          child: Center(
+            child: Text('Home'),
+          )),
+    ));
   }
-
 }

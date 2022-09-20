@@ -1,0 +1,16 @@
+E:/kantin/kelompok3/build/windows/runner/Debug/data/icudtl.dat
+E:/kantin/kelompok3/build/windows/runner/Debug/flutter_windows.dll
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Lato-Bold.ttf
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Lato-Regular.ttf
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Lato-SemiBold.ttf
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/assets/images/accent.png
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/assets/images/logo.png
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/assets/images/readme.png
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/assets/logo.png
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/NOTICES
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/kantin/kelompok3/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

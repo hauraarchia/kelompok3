@@ -1,0 +1,10 @@
+^E:\KANTIN\KELOMPOK3\BUILD\WINDOWS\CMAKEFILES\678573F5F59B1B5AB8061B18A96A04CD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/kantin/kelompok3/windows -BE:/kantin/kelompok3/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/kantin/kelompok3/build/windows/kantin.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
