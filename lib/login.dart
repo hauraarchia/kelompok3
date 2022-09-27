@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kantin/regist.dart';
 import '../theme.dart';
 import '../widgets/custom_checkbox.dart';
 import '../widgets/primary_button.dart';
@@ -111,27 +112,14 @@ class _LoginPageState extends State<LoginPage> {
                 buttonColor: primaryBlue,
                 textValue: 'Login',
                 textColor: Colors.white,
-              ),
+               onPressed: () {
+                      Navigator.push(context,
+                          MaterialPageRoute(builder: (context) => LoginPage()));
+                    }),
               SizedBox(
                 height: 24,
               ),
-              Center(
-                child: Text(
-                  'Or',
-                  style: heading6.copyWith(color: textGrey),
-                ),
-              ),
-              SizedBox(
-                height: 24,
-              ),
-              CustomPrimaryButton(
-                buttonColor: colorLight,
-                textValue: 'Login with Google',
-                textColor: textBlack,
-              ),
-              SizedBox(
-                height: 50,
-              ),
+
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -141,8 +129,10 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   GestureDetector(
                     onTap: () {
-                      Navigator.push(context,
-                          MaterialPageRoute(builder: (context) => LoginPage()));
+                      Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                              builder: (context) => RegisterPage()));
                     },
                     child: Text(
                       'Register',
